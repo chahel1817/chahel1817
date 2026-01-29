@@ -70,15 +70,18 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ## 🧠 GOTHAM ANALYTICS (GitHub Stats)
 
-## 🧠 GOTHAM ANALYTICS (GitHub Stats)
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700)
+<!-- GitHub Stats using different deployment -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB)
+<!-- Top Languages using different deployment -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&langs_count=8" alt="Top Languages"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF)
+<br/><br/>
+
+<!-- Streak (this one works) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub Streak"/>
 
 </div>
 
