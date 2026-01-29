@@ -70,15 +70,15 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ## 🧠 GOTHAM ANALYTICS (GitHub Stats)
 
+## 🧠 GOTHAM ANALYTICS (GitHub Stats)
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700&cache_seconds=86400" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&cache_seconds=86400" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB)
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub Streak"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF)
 
 </div>
 
