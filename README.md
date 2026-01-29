@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 
 <!-- CUSTOM BAT-SIGNAL HEADER -->
@@ -54,15 +56,6 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 </div>
 
-
----
-
-### 🔧 **Tools & Environment**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Development Tools"/>
-</div>
-
-`Git` • `GitHub` • `VS Code` • `Postman` • `npm`
 
 ---
 
