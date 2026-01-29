@@ -28,8 +28,6 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=chahel1817&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
