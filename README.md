@@ -1,5 +1,3 @@
----
-
 <div align="center">
 
 <!-- CUSTOM BAT-SIGNAL HEADER -->
@@ -56,7 +54,6 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 </div>
 
-
 ---
 
 ## 📂 CLASSIFIED CASE FILES
@@ -94,6 +91,7 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub Streak"/>
 
 </div>
+
 ---
 
 <!-- GOTHAM SKYLINE -->
