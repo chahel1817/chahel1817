@@ -1,74 +1,76 @@
 <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="darkKnightGlow">
-      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:0.4"/>
+    <radialGradient id="batGlow">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:0.3"/>
       <stop offset="100%" style="stop-color:#000000;stop-opacity:0"/>
     </radialGradient>
-    <filter id="roughEdge">
-      <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="3" result="noise"/>
-      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2" xChannelSelector="R" yChannelSelector="G"/>
+    <filter id="shadow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="0" dy="2" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
   </defs>
 
-  <!-- Dark Background Glow -->
-  <circle cx="100" cy="100" r="95" fill="url(#darkKnightGlow)">
-    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="4s" repeatCount="indefinite"/>
+  <!-- Glow Background -->
+  <circle cx="100" cy="100" r="90" fill="url(#batGlow)">
+    <animate attributeName="r" values="85;95;85" dur="4s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- The Dark Knight Logo (Fragmented Style) -->
-  <g transform="translate(100, 100)">
+  <!-- The Dark Knight Batman Logo -->
+  <g transform="translate(100, 100)" filter="url(#shadow)">
+    <path d="
+      M 0,-35
+      L -8,-32 L -12,-28 L -15,-22
+      
+      L -25,-20 L -35,-15 L -45,-8 L -55,-2
+      L -65,8 L -72,18 L -75,25
+      
+      L -70,28 L -60,25 L -50,20 L -42,12
+      L -35,8 L -28,6
+      
+      L -22,8 L -18,12 L -15,18
+      L -12,12 L -10,8 L -8,5
+      L -5,0 L -3,-8
+      
+      L 0,-10
+      
+      L 3,-8 L 5,0 L 8,5
+      L 10,8 L 12,12 L 15,18
+      L 18,12 L 22,8
+      
+      L 28,6 L 35,8 L 42,12
+      L 50,20 L 60,25 L 70,28
+      
+      L 75,25 L 72,18 L 65,8
+      L 55,-2 L 45,-8 L 35,-15 L 25,-20
+      
+      L 15,-22 L 12,-28 L 8,-32
+      Z
+    " fill="#000000" stroke="none"/>
     
-    <!-- Left Wing (Shattered pieces) -->
-    <path d="M-65 5 L-55 -15 L-45 -8 L-50 8 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.9" filter="url(#roughEdge)">
-      <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
-    </path>
-    <path d="M-50 8 L-45 -8 L-35 0 L-40 12 Z" fill="#2a2a2a" stroke="#ffd700" stroke-width="0.5" opacity="0.95"/>
-    <path d="M-40 12 L-35 0 L-25 5 L-28 18 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.9"/>
-    <path d="M-28 18 L-25 5 L-15 8 L-18 22 Z" fill="#2a2a2a" stroke="#ffd700" stroke-width="0.5" opacity="0.95"/>
-    
-    <!-- Left Upper Wing -->
-    <path d="M-55 -15 L-50 -30 L-38 -25 L-45 -8 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.85" filter="url(#roughEdge)"/>
-    <path d="M-45 -8 L-38 -25 L-28 -20 L-35 0 Z" fill="#2a2a2a" stroke="#ffd700" stroke-width="0.5" opacity="0.9"/>
-    
-    <!-- Center Body -->
-    <path d="M-15 8 L-8 -5 L0 -10 L8 -5 L15 8 L8 15 L0 25 L-8 15 Z" fill="#0a0a0a" stroke="#ffd700" stroke-width="1" opacity="1">
-      <animate attributeName="fill" values="#0a0a0a;#1a1a1a;#0a0a0a" dur="3s" repeatCount="indefinite"/>
-    </path>
-    
-    <!-- Right Wing (Shattered pieces - mirrored) -->
-    <path d="M65 5 L55 -15 L45 -8 L50 8 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.9" filter="url(#roughEdge)">
-      <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite" begin="0.5s"/>
-    </path>
-    <path d="M50 8 L45 -8 L35 0 L40 12 Z" fill="#2a2a2a" stroke="#ffd700" stroke-width="0.5" opacity="0.95"/>
-    <path d="M40 12 L35 0 L25 5 L28 18 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.9"/>
-    <path d="M28 18 L25 5 L15 8 L18 22 Z" fill="#2a2a2a" stroke="#ffd700" stroke-width="0.5" opacity="0.95"/>
-    
-    <!-- Right Upper Wing -->
-    <path d="M55 -15 L50 -30 L38 -25 L45 -8 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.85" filter="url(#roughEdge)"/>
-    <path d="M45 -8 L38 -25 L28 -20 L35 0 Z" fill="#2a2a2a" stroke="#ffd700" stroke-width="0.5" opacity="0.9"/>
-    
-    <!-- Bottom Wings -->
-    <path d="M-18 22 L-15 8 L-8 15 L-12 28 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.9"/>
-    <path d="M18 22 L15 8 L8 15 L12 28 Z" fill="#1a1a1a" stroke="#ffd700" stroke-width="0.5" opacity="0.9"/>
-    
-    <!-- Head -->
-    <ellipse cx="0" cy="-8" rx="6" ry="8" fill="#0a0a0a" stroke="#ffd700" stroke-width="0.8"/>
+    <!-- Bat Ears -->
+    <path d="M -3,-10 L -5,-20 L -2,-35 L 0,-35 L 2,-35 L 5,-20 L 3,-10 Z" fill="#000000"/>
     
   </g>
 
-  <!-- Outer Ring with Pulse -->
-  <circle cx="100" cy="100" r="88" stroke="#ffd700" stroke-width="1.5" fill="none" opacity="0.4">
-    <animate attributeName="r" values="88;92;88" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite"/>
+  <!-- Pulsing Ring -->
+  <circle cx="100" cy="100" r="85" stroke="#ffd700" stroke-width="1" fill="none" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Rotating Slow Spin Effect -->
+  <!-- Slow Rotation -->
   <animateTransform 
     attributeName="transform" 
     type="rotate" 
     from="0 100 100" 
     to="360 100 100" 
-    dur="30s" 
+    dur="25s" 
     repeatCount="indefinite"/>
 
 </svg>
