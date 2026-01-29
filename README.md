@@ -212,7 +212,16 @@ const chahelTanna = {
 };
 
 ```
+
+---
+
+<!-- GOTHAM SKYLINE -->
+<div align="center">
+  <img src="./gotham-skyline.svg" width="100%" alt="Gotham City Skyline"/>
+</div>
+
 ## 📡 SIGNAL THE BAT
+---
 
 <div align="center">
 
