@@ -10,6 +10,11 @@
 
 <br/><br/>
 
+<!-- HERO TITLE -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=CHAHEL+TANNA;FULL+STACK+VIGILANTE;MERN+STACK+DEVELOPER" alt="Typing SVG" />
+</h1>
+
 <!-- STATUS BADGES -->
 <a href="https://github.com/chahel1817">
   <img src="https://img.shields.io/badge/STATUS-OPERATING_IN_SHADOWS-000000?style=for-the-badge&logo=github&logoColor=FFD700&color=0a0a0a&labelColor=FFD700" alt="Status"/>
@@ -20,6 +25,30 @@
 <a href="mailto:chahel1817@gmail.com">
   <img src="https://img.shields.io/badge/SIGNAL-ENCRYPTED-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a0a0a" alt="Email"/>
 </a>
+
+<br/><br/>
+
+<!-- SOCIAL MEDIA LINKS -->
+<a href="https://github.com/chahel1817" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/chahel-tanna-87300a269/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:chahel1817@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.youtube.com/@Chahel-1817" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://twitter.com/chahel1817" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=chahel1817&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -33,6 +62,20 @@
 > **Directive:** Building scalable products, clean APIs, and fast UIs.
 
 I don't just write code — I craft **digital justice**. Specializing in the **MERN Stack**, I build high-performance applications that serve the greater good.
+
+---
+
+## 🏆 HALL OF FAME
+
+<div align="center">
+
+### 🥉 **[3rd Position - State Level Hackathon (TechHack 2025)](https://www.linkedin.com/posts/chahel-tanna-87300a269_techhack2025-hackathon-learning-activity-7382258039925641217-ZjHc?utm_source=share&utm_medium=member_desktop)**
+
+<img src="https://img.shields.io/badge/🏆_3rd_Place-State_Level_Hackathon-FFD700?style=for-the-badge&labelColor=0D1117" alt="Hackathon Achievement"/>
+
+*Competed against top talent and secured 3rd position in a state-level hackathon, showcasing innovative problem-solving and technical excellence.*
+
+</div>
 
 ---
 
@@ -80,6 +123,42 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ---
 
+## 📊 GOTHAM INTELLIGENCE (GitHub Activity)
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF&border=FFD700" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<!-- GitHub Stats Summary -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Commits-500+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Total Commits"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Public_Repos-10+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Public Repos"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stars_Earned-20+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hackathon_Winner-3rd_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0D1117" alt="Hackathon"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📂 CLASSIFIED CASE FILES (Featured Projects)
 
 <table>
@@ -96,6 +175,10 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
         <li>🔐 Secure JWT authentication</li>
       </ul>
       <p><code>MERN Stack</code> <code>OpenRouter AI</code> <code>WebRTC</code> <code>JWT</code></p>
+      <br/>
+      <a href="https://github.com/chahel1817/VivaMate">
+        <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
+      </a>
     </td>
     <td width="50%">
       <h3>🎯 <a href="https://github.com/chahel1817/EduTrack">PROJECT: EDUTRACK</a></h3>
@@ -109,6 +192,10 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
         <li>⚡ RESTful API architecture</li>
       </ul>
       <p><code>Node.js</code> <code>MongoDB</code> <code>REST API</code> <code>Analytics</code></p>
+      <br/>
+      <a href="https://github.com/chahel1817/EduTrack">
+        <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -127,6 +214,7 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 | **Database Management** | ⭐⭐⭐⭐ | MongoDB & MySQL with optimized queries |
 | **Cloud Deployment** | ⭐⭐⭐⭐ | Vercel, Netlify, GitHub Actions CI/CD |
 | **Problem Solving** | ⭐⭐⭐⭐⭐ | Strong DSA foundation, competitive programming |
+| **Hackathon Experience** | ⭐⭐⭐⭐⭐ | 3rd Place - State Level TechHack 2025 |
 
 </div>
 
@@ -140,5 +228,6 @@ const chahelTanna = {
   learning: ["Python for Data Engineering", "Docker & Kubernetes", "AWS Services"],
   lookingFor: "Full Stack Developer / Backend Engineer roles",
   availableFor: ["Full-time positions", "Internships", "Freelance projects"],
-  workStyle: "Remote-first, collaborative, agile methodologies"
+  workStyle: "Remote-first, collaborative, agile methodologies",
+  achievements: ["🥉 3rd Place - State Level Hackathon 2025"]
 };
