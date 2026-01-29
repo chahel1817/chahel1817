@@ -1,53 +1,50 @@
 # Hi 👋, I'm Chahel Tanna
 
-<h1 align="center">🦇 Coding Through The Night</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=F7DC6F&center=true&vCenter=true&width=500&lines=Justice+by+Day...;Coder+by+Night...;Building+in+the+Shadows..." />
-</p>
+<svg width="700" height="400" viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
 
----
+  <!-- Night Sky -->
+  <rect width="100%" height="100%" fill="#05070d"/>
 
-### 🖥️ Late Night Mode Activated
+  <!-- ⭐ Animated Stars -->
+  <g fill="white">
+    <circle cx="50" cy="40" r="1">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="90" r="1.5">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="60" r="1.2">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="80" r="1.3">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="50" r="1">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-<p align="center">
-<svg width="500" height="300" viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- City Ground -->
+  <rect x="0" y="330" width="700" height="70" fill="#0d1117"/>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0a0a0a"/>
+  <!-- Bat Signal Light Beam -->
+  <polygon points="330,330 370,330 520,40 180,40" fill="#ffd700" opacity="0.15">
+    <animate attributeName="opacity" values="0.05;0.25;0.05" dur="4s" repeatCount="indefinite"/>
+  </polygon>
 
-  <!-- Desk -->
-  <rect x="120" y="210" width="260" height="15" fill="#222"/>
+  <!-- Bat Emblem -->
+  <ellipse cx="350" cy="80" rx="90" ry="35" fill="#111" stroke="#ffd700" stroke-width="2"/>
 
-  <!-- Laptop -->
-  <rect x="200" y="170" width="100" height="50" fill="#111" stroke="#555" stroke-width="2"/>
-  <rect x="210" y="180" width="80" height="35" fill="#1e1e1e"/>
+  <!-- Simple Bat Shape -->
+  <path d="M310 80 Q330 55 350 80 Q370 55 390 80 L375 75 L350 95 L325 75 Z"
+        fill="#ffd700">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </path>
 
-  <!-- Screen glow animation -->
-  <rect x="210" y="180" width="80" height="35" fill="#00ffcc" opacity="0.2">
-    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Coder silhouette (Batman vibe) -->
-  <circle cx="250" cy="140" r="20" fill="#111"/>
-  <polygon points="230,120 240,100 250,120" fill="#111"/>
-  <polygon points="270,120 260,100 250,120" fill="#111"/>
-  <rect x="235" y="160" width="30" height="40" fill="#111"/>
-
-  <!-- Typing dots -->
-  <circle cx="225" cy="195" r="3" fill="#00ffcc">
-    <animate attributeName="cy" values="195;192;195" dur="0.6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="195" r="3" fill="#00ffcc">
-    <animate attributeName="cy" values="195;192;195" dur="0.6s" begin="0.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="275" cy="195" r="3" fill="#00ffcc">
-    <animate attributeName="cy" values="195;192;195" dur="0.6s" begin="0.4s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Text -->
-  <text x="50%" y="40" fill="#F7DC6F" font-size="18" font-family="monospace" text-anchor="middle">
-    Studying. Coding. Saving Deadlines.
+  <!-- Caption -->
+  <text x="50%" y="30" fill="#ffd700" font-size="20" font-family="monospace" text-anchor="middle">
+    Chahel Tanna — Coding Signal Activated
   </text>
 
 </svg>
@@ -91,8 +88,16 @@
 
 ---
 
-## 📊 GitHub Stats
-![Chahel's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=dark)
+## 🦇 GitHub Activity in the Shadows
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=0d1117" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
