@@ -72,13 +72,9 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 <div align="center">
 
-<a href="https://github.com/chahel1817">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700" alt="GitHub Stats"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700&cache_seconds=86400" alt="GitHub Stats"/>
 
-<a href="https://github.com/chahel1817">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB" alt="Top Languages"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&cache_seconds=86400" alt="Top Languages"/>
 
 <br/><br/>
 
