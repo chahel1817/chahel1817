@@ -1,25 +1,25 @@
 <div align="center">
 
-<!-- HERO: Reliable (no external JS, no flaky renderers) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=CHAHEL%20TANNA%20🦇&fontColor=FFD700&fontSize=48&fontAlignY=35&desc=FULL%20STACK%20VIGILANTE%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS&descAlignY=60" width="100%" alt="VivaMate / Batman themed banner"/>
-
-<br/>
-
-<!-- BADGES (all standard & reliable) -->
-<a href="https://github.com/chahel1817">
-  <img src="https://img.shields.io/badge/GitHub-chahel1817-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/chahel-tanna-87300a269/">
-  <img src="https://img.shields.io/badge/LinkedIn-Chahel%20Tanna-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:chahel1817@gmail.com">
-  <img src="https://img.shields.io/badge/Email-chahel1817%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
+<!-- CUSTOM BAT-SIGNAL HEADER -->
+<img src="./batsignal.svg" width="100%" alt="Bat Signal - Chahel Tanna"/>
 
 <br/><br/>
 
-<!-- BAT-SIGNAL (stable asset from Giphy CDN; if it ever fails, just remove this line) -->
-<img src="https://media.giphy.com/media/l0NwGZEXMmpRXzSxi/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 14px;" alt="Bat-Signal"/>
+<!-- SPINNING BATMAN LOGO -->
+<img src="./batman-logo.svg" width="150" alt="Batman Logo"/>
+
+<br/><br/>
+
+<!-- STATUS BADGES -->
+<a href="https://github.com/chahel1817">
+  <img src="https://img.shields.io/badge/STATUS-OPERATING_IN_SHADOWS-000000?style=for-the-badge&logo=github&logoColor=FFD700&color=0a0a0a&labelColor=FFD700" alt="Status"/>
+</a>
+<a href="https://linkedin.com/in/chahel-tanna-87300a269/">
+  <img src="https://img.shields.io/badge/COMMS-ESTABLISHED-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=05070d&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="mailto:chahel1817@gmail.com">
+  <img src="https://img.shields.io/badge/SIGNAL-ENCRYPTED-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a0a0a" alt="Email"/>
+</a>
 
 </div>
 
@@ -32,24 +32,39 @@
 > **Location:** Ahmedabad, Gujarat, India  
 > **Directive:** Building scalable products, clean APIs, and fast UIs.
 
-I don’t just write code — I ship **reliable systems**.
+I don't just write code — I craft **digital justice**. Specializing in the **MERN Stack**, I build high-performance applications that serve the greater good.
 
 ---
 
 ## 🛠️ THE UTILITY BELT (Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,html,css,git,github,postman,vercel,gcp&theme=dark" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,html,css,git,github,postman,vercel,gcp&theme=dark" alt="Tech Stack"/>
 </div>
+
+**Additional Arsenal:**  
+`JWT Authentication` • `REST APIs` • `WebRTC` • `AI Integration` • `Real-time Systems`
 
 ---
 
 ## 📂 CLASSIFIED CASE FILES
 
-| 🔦 Project | 📌 Intel |
-|---|---|
-| **[VivaMate](https://github.com/chahel1817/VivaMate)** | AI-powered mock interview simulator. `MERN` `AI` `WebRTC` `Real-time` |
-| **[EduTrack](https://github.com/chahel1817/EduTrack)** | Learning & assessment platform with analytics and progress tracking. `Node.js` `MongoDB` `Analytics` |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔦 <a href="https://github.com/chahel1817/VivaMate">PROJECT: VIVAMATE</a></h3>
+      <p><strong>Clearance Level:</strong> TOP SECRET</p>
+      <p>An AI-powered interrogation unit (Interview Simulator) designed to test the resolve of recruits.</p>
+      <p><code>MERN Stack</code> <code>OpenRouter AI</code> <code>WebRTC</code> <code>Real-time Analysis</code></p>
+    </td>
+    <td width="50%">
+      <h3>🎯 <a href="https://github.com/chahel1817/EduTrack">PROJECT: EDUTRACK</a></h3>
+      <p><strong>Clearance Level:</strong> RESTRICTED</p>
+      <p>A tactical performance monitoring system for tracking skill acquisition and field readiness.</p>
+      <p><code>Node.js</code> <code>MongoDB</code> <code>REST Analytics</code> <code>Progress Tracking</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,26 +73,39 @@ I don’t just write code — I ship **reliable systems**.
 <div align="center">
 
 <a href="https://github.com/chahel1817">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/chahel1817">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB" alt="Top Languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub Streak"/>
 
+</div>
+
+---
+
+<!-- GOTHAM SKYLINE -->
+<div align="center">
+  <img src="./gotham-skyline.svg" width="100%" alt="Gotham City Skyline"/>
 </div>
 
 ---
 
 ## 📡 SIGNAL THE BAT
 
-- **GitHub:** https://github.com/chahel1817  
-- **LinkedIn:** https://www.linkedin.com/in/chahel-tanna-87300a269/  
-- **Email:** chahel1817@gmail.com  
+<div align="center">
+
+**Encrypted Channels:**
+
+[![GitHub](https://img.shields.io/badge/GitHub-chahel1817-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chahel1817)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chahel_Tanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chahel-tanna-87300a269/)
+[![Email](https://img.shields.io/badge/Email-chahel1817@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahel1817@gmail.com)
+
+</div>
 
 ---
 
