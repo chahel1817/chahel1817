@@ -223,3 +223,15 @@ const chahelTanna = {
   workStyle: "Remote-first, collaborative, agile methodologies",
   achievements: ["🥉 3rd Place - State Level Hackathon 2025"]
 };
+```
+
+---
+
+<!-- GOTHAM SKYLINE -->
+<div align="center">
+  <img src="./gotham-skyline.svg" width="100%" alt="Gotham City Skyline"/>
+</div>
+
+---
+
+## 📡 SIGNAL THE BAT
