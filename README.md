@@ -54,14 +54,6 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 </div>
 
----
-
-### ☁️ **Cloud & DevOps**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions&theme=dark" alt="Cloud & DevOps"/>
-</div>
-
-`Vercel` • `Netlify` • `GitHub Actions`
 
 ---
 
