@@ -84,16 +84,15 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 <div align="center">
 
-<!-- Using GitHub Profile Summary Cards instead -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chahel1817&theme=tokyonight" alt="GitHub Stats"/>
-
-<br/><br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chahel1817&theme=tokyonight" alt="Top Languages"/>
+<a href="https://github.com/chahel1817">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahel1817&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700&border_color=FFD700&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahel1817&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&border_color=FFD700&langs_count=8"/>
+</a>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub Streak"/>
+
 </div>
 ---
 
