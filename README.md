@@ -38,12 +38,39 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ## 🛠️ THE UTILITY BELT (Tech Stack)
 
+### 🎨 **Frontend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,html,css,git,github,postman,vercel,gcp&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux&theme=dark" alt="Frontend Stack"/>
 </div>
 
-**Additional Arsenal:**  
-`JWT Authentication` • `REST APIs` • `WebRTC` • `AI Integration` • `Real-time Systems`
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React.js` • `Next.js` • `Redux`
+
+---
+
+### ⚙️ **Backend & APIs**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,express,mysql,mongodb&theme=dark" alt="Backend Stack"/>
+</div>
+
+`Node.js` • `Java` • `Express.js` • `MySQL` • `MongoDB` • `REST API` • `JWT Authentication`
+
+---
+
+### ☁️ **Cloud & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions&theme=dark" alt="Cloud & DevOps"/>
+</div>
+
+`Vercel` • `Netlify` • `GitHub Actions`
+
+---
+
+### 🔧 **Tools & Environment**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Development Tools"/>
+</div>
+
+`Git` • `GitHub` • `VS Code` • `Postman` • `npm`
 
 ---
 
