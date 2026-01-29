@@ -1,178 +1,163 @@
-<!-- BATMAN THEME README START -->
+<!-- BATMAN THEME PROFILE V2 -->
 <div align="center">
 
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#020205;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1a1c29;stop-opacity:1" />
+    <!-- Dark Gotham Gradient -->
+    <linearGradient id="gothamNight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#050505;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#111111;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0b0d12;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    
+    <!-- Glitch Filter for text -->
+    <filter id="glitch">
+       <feTurbulence type="fractalNoise" baseFrequency="0.01 0.001" numOctaves="1" result="warp" />
+       <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="10" in="SourceGraphic" in2="warp" />
     </filter>
   </defs>
 
-  <!-- Gotham Sky -->
-  <rect width="100%" height="100%" fill="url(#skyGradient)"/>
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#gothamNight)"/>
 
-  <!-- Stars -->
-  <g fill="#ffffff" opacity="0.8">
-    <circle cx="50" cy="50" r="1"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="700" cy="80" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/></circle>
-    <circle cx="300" cy="30" r="1"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="500" cy="150" r="1"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/></circle>
+  <!-- ANIMATED RAIN EFFECT (Multiple layers for depth) -->
+  <g stroke="#404040" stroke-width="1" opacity="0.4">
+    <line x1="50" y1="-50" x2="50" y2="0"><animate attributeName="y1" from="-50" to="500" dur="0.8s" repeatCount="indefinite"/><animate attributeName="y2" from="0" to="550" dur="0.8s" repeatCount="indefinite"/></line>
+    <line x1="250" y1="-80" x2="250" y2="-20"><animate attributeName="y1" from="-80" to="500" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y2" from="-20" to="560" dur="1.2s" repeatCount="indefinite"/></line>
+    <line x1="450" y1="-30" x2="450" y2="20"><animate attributeName="y1" from="-30" to="500" dur="0.9s" repeatCount="indefinite"/><animate attributeName="y2" from="20" to="550" dur="0.9s" repeatCount="indefinite"/></line>
+    <line x1="650" y1="-60" x2="650" y2="-10"><animate attributeName="y1" from="-60" to="500" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y2" from="-10" to="550" dur="1.1s" repeatCount="indefinite"/></line>
+    <line x1="150" y1="-90" x2="150" y2="-40"><animate attributeName="y1" from="-90" to="500" dur="1.5s" repeatCount="indefinite"/><animate attributeName="y2" from="-40" to="550" dur="1.5s" repeatCount="indefinite"/></line>
+    <line x1="550" y1="-20" x2="550" y2="40"><animate attributeName="y1" from="-20" to="500" dur="0.7s" repeatCount="indefinite"/><animate attributeName="y2" from="40" to="560" dur="0.7s" repeatCount="indefinite"/></line>
   </g>
 
-  <!-- The Moon / Signal Source -->
-  <circle cx="100" cy="80" r="40" fill="#eee" opacity="0.1" filter="url(#glow)"/>
-
-  <!-- Bat Signal Beam -->
-  <path d="M400 350 L300 50 L500 50 Z" fill="#ffd700" opacity="0.1">
-    <animate attributeName="opacity" values="0.1;0.25;0.1" dur="4s" repeatCount="indefinite"/>
-  </path>
-  
-  <!-- Cloud Projection -->
-  <ellipse cx="400" cy="50" rx="80" ry="30" fill="#fff" opacity="0.05" filter="url(#glow)">
-     <animate attributeName="opacity" values="0.05;0.1;0.05" dur="4s" repeatCount="indefinite"/>
-  </ellipse>
-
-  <!-- Bat Symbol Silhouette -->
-  <g transform="translate(350, 25) scale(0.2)">
-     <path fill="#05070d" d="M259.5,41.4c-6.8-5.8-19.5-6.5-19.5-6.5S229.2,27,219,25.9c-8.7-0.9-19.2,1.3-19.2,1.3s-10.2,18.8-10.2,18.8
-	s-15.5-2.2-27.2,3.1c-11.7,5.3-26.4,17.4-26.4,17.4s-5.3-28.7-18.8-37c-13.6-8.3-33.6-4.9-33.6-4.9s-9.8,20.4-8.7,35.5
-	c0.9,13.2,9.4,32.4,9.4,32.4S60,86.1,49.5,103.1c-9.1,14.7-6.4,35.1-6.4,35.1s27.9-9.1,50.2-6.8c18.5,1.9,38.1,12.8,38.1,12.8
-	s9.8-19.6,35.1-23c21.9-3,46.8,4.2,46.8,4.2s8.3-26.8,39.6-26.4c31.3,0.4,49.8,22.3,49.8,22.3s30.2-11.3,46.8-6
-	c20.4,6.4,30.6,27.2,30.6,27.2s2.6-23-9.8-39.6c-13.6-18.1-41.9-24.5-41.9-24.5s9.4-19.6,9.1-32.1c-0.4-15.1-10.6-35.1-10.6-35.1
-	s-20-3.4-33.6,4.9c-13.6,8.3-18.8,37-18.8,37s-14.7-12.1-26.4-17.4C267.8,42.7,259.5,41.4,259.5,41.4z"/>
+  <!-- THE BAT SIGNAL (Moving Beam) -->
+  <g opacity="0.6">
+    <!-- Beam -->
+    <path d="M400 400 L320 50 L480 50 Z" fill="#ffd700" opacity="0.15">
+      <animate attributeName="d" values="M400 400 L320 50 L480 50 Z; M400 400 L300 80 L460 80 Z; M400 400 L340 40 L500 40 Z; M400 400 L320 50 L480 50 Z" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.2;0.1" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <!-- Cloud Haze -->
+    <ellipse cx="400" cy="50" rx="100" ry="30" fill="#fff" opacity="0.1" filter="url(#glitch)"/>
+    <!-- Bat Logo in Sky -->
+    <path fill="#000" d="M355 50 Q380 15 400 50 Q420 15 445 50 L425 40 L400 70 L375 40 Z" transform="translate(0, 0)">
+       <animateTransform attributeName="transform" type="translate" values="-10 0; 10 0; -10 0" dur="6s" repeatCount="indefinite"/>
+    </path>
   </g>
 
-  <!-- Gotham City Skyline (Simplistic) -->
-  <path d="M0 400 L0 320 L50 320 L50 280 L100 280 L100 340 L150 340 L150 300 L200 300 L200 360 L250 360 L250 250 L300 250 L300 380 L350 380 L350 300 L400 300 L400 350 L450 350 L450 220 L500 220 L500 370 L550 370 L550 290 L600 290 L600 350 L650 350 L650 270 L700 270 L700 330 L750 330 L750 380 L800 380 L800 400 Z" fill="#0d1117"/>
-  
-  <!-- Windows in buildings (Yellow) -->
-  <g fill="#ffd700" opacity="0.6">
-    <rect x="60" y="290" width="5" height="5"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="0.5s"/></rect>
-    <rect x="260" y="260" width="5" height="5"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="1s"/></rect>
-    <rect x="460" y="230" width="5" height="5"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" begin="2s"/></rect>
-    <rect x="560" y="300" width="5" height="5"><animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" begin="0.2s"/></rect>
+  <!-- BATCOMPUTER INTERFACE (Typing Text) -->
+  <g font-family="Consolas, monospace" font-size="14" fill="#0f0">
+    <text x="20" y="380" opacity="0.7">root@batcomputer:~$ initiate_protocol --user chahel1817</text>
+    <text x="20" y="400" fill="#ffd700" font-weight="bold">
+       > USER IDENTIFIED: CHAHEL TANNA
+       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.1;1" dur="2s" fill="freeze"/>
+    </text>
+    <text x="20" y="420" fill="#fff">
+       > STATUS: CODING IN THE SHADOWS...
+       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" dur="3s" fill="freeze"/>
+    </text>
   </g>
 
-  <!-- Text Overlay -->
-  <text x="50%" y="30%" fill="#ffd700" font-size="28" font-family="'Segoe UI', Arial, sans-serif" font-weight="bold" text-anchor="middle" filter="url(#glow)">
+  <!-- Main Title -->
+  <text x="50%" y="220" fill="#ffd700" font-size="40" font-family="Arial, sans-serif" font-weight="900" text-anchor="middle" stroke="#000" stroke-width="2" filter="url(#glitch)">
     CHAHEL TANNA
   </text>
-  <text x="50%" y="40%" fill="#ffffff" font-size="16" font-family="monospace" letter-spacing="2" text-anchor="middle">
-    PROTECTOR OF THE SOURCE CODE
+  <text x="50%" y="260" fill="#ffffff" font-size="16" font-family="monospace" letter-spacing="4" text-anchor="middle" opacity="0.8">
+    FULL STACK VIGILANTE
   </text>
+  
+  <!-- Animated Pulse Circles behind title -->
+  <circle cx="400" cy="230" r="160" stroke="#ffd700" stroke-width="1" fill="none" opacity="0.3">
+    <animate attributeName="r" values="160;170;160" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
 </svg>
+</div>
 
-<br/>
-
-<h1 align="center">🦇 Welcome to the Batcave 🦇</h1>
-<p align="center">
-  <em>"It's not who I am underneath, but what I <strong>code</strong> that defines me."</em>
-</p>
+<h1 align="center" style="color:#ffd700;">🦇 THE DARK KNIGHT OF CODE 🦇</h1>
 
 <p align="center">
   <a href="https://github.com/chahel1817">
-    <img src="https://img.shields.io/badge/Status-Operating_in_Shadows-000000?style=for-the-badge&logo=batman&logoColor=ffd700&color=05070d&labelColor=ffd700" alt="Status"/>
+    <img src="https://img.shields.io/badge/MISSION-ACTIVE-000000?style=for-the-badge&logo=github&logoColor=white&color=black&border=ffd700" alt="Mission Active"/>
   </a>
   <a href="https://linkedin.com/in/chahel-tanna-87300a269/">
-    <img src="https://img.shields.io/badge/Network-Encrypted_Comms-000000?style=for-the-badge&logo=linkedin&logoColor=000&color=ffd700&labelColor=05070d" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/COMMS-ESTABLISHED-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&color=05070d&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chahel1817@gmail.com">
+    <img src="https://img.shields.io/badge/SIGNAL-SEND_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email"/>
   </a>
 </p>
+
+---
+
+## 🖥️ THE UTILITY BELT (Tech Stack)
+
+<div align="center">
+
+<!-- SCRIPTING & CORE -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=1a1a1a"/>
+
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=1a1a1a"/>
+
+<!-- BACKEND & DB -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000&color=333"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=1a1a1a"/>
+
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
 ---
 
-### 🕵️‍♂️ Identity Profile
-> **Designation:** Full Stack Developer & Computer Science Engineer  
-> **Base of Operations:** Ahmedabad, Gujarat, India  
-> **Mission:** Building scalable architectures, mastering the MERN stack, and securing backend systems.  
+## 🗂️ CLASSIFIED CASE FILES
 
-I operate in the shadows of the web, constructing robust applications and efficient algorithms. My expertise lies in weaving logic into reality using **JavaScript, Node.js, and Python**.
+### 🔦 [PROJECT: VIVAMATE](https://github.com/chahel1817/VivaMate)
+> **Clearance Level: TOP SECRET**  
+> An AI-powered interrogation unit (Interview Simulator) designed to test the resolve of recruits.  
+> **Tech:** MERN Stack, OpenRouter Neural Net, Real-time AV Analysis.
 
----
-
-### 🛠️ The Utility Belt (Tech Stack)
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
-      <br>React
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/bg/nodedotjs-icon.svg" alt="icon" width="45" height="45" />
-      <br>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/g-icon.svg" alt="icon" width="45" height="45" />
-      <br>Google Cloud
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="45" height="45" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
-      <br>Python
-    </td>
-  </tr>
-</table>
-
-**Gadgets & Tools:** `Git` `Postman` `Vercel` `Netlify` `Express.js` `JWT`
+### 🎯 [PROJECT: EDUTRACK](https://github.com/chahel1817/EduTrack)
+> **Clearance Level: RESTRICTED**  
+> A tactical performance monitoring system for tracking skill acquisition and field readiness.  
+> **Tech:** Node.js, REST Analytics, MongoDB Archives.
 
 ---
 
-### 📂 Case Files (Featured Projects)
-
-#### 🔹 [Project: VIVAMATE](https://github.com/chahel1817/VivaMate)
-> *The AI-Powered Interrogation Simulator*
-- **Objective:** Train recruits effectively using AI.
-- **Tech:** MERN Stack, OpenRouter API.
-- **Intel:** Features real-time camera & microphone analysis for mock interviews.
-
-#### 🔹 [Project: EDUTRACK](https://github.com/chahel1817/EduTrack)
-> *Tactical Learning & Assessment System*
-- **Objective:** Track performance metrics and execute quiz assessments.
-- **Tech:** MERN Stack, REST Analytics.
-- **Intel:** Comprehensive performance tracking for field operatives.
-
----
-
-### 🦇 Patrol Activity (GitHub Stats)
+## 🦇 GOTHAM ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180" alt="languages" />
+
+<!-- Custom Colored Stats Card to match Batman Theme (Gold/Black) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&bg_color=050505&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=333333&hide_border=false" height="180" alt="stats" />
+</a>
+
+<!-- Custom Colored Top Langs Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&bg_color=050505&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=333333&hide_border=false" height="180" alt="languages" />
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&theme=tokyonight&background=0d1117&ring=FFD700&fire=FFD700&currStreakNum=ffffff&currStreakLabel=FFD700&sideNums=ffffff&sideLabels=ffffff&hide_border=true" alt="streak" />
+  <!-- Streak Stats (Gold Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&background=050505&ring=ffd700&fire=ffd700&currStreakNum=ffffff&currStreakLabel=ffd700&sideNums=ffffff&sideLabels=ffffff&border=333333" alt="streak" />
 </div>
 
 ---
 
-<div align="center">
-
-### 📡 Signal The Bat
-<a href="https://linkedin.com/in/chahel-tanna-87300a269/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:chahel1817@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send_Intel-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=100&section=footer&text=GOTHAM%20NEEDS%20CODE&fontSize=20&fontColor=ffd700&fontAlignY=40" width="100%"/>
+</p>
