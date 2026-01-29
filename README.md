@@ -36,6 +36,30 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ---
 
+## 🎯 MISSION OBJECTIVES (What I Bring to the Table)
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+      <h3>Full Stack Mastery</h3>
+      <p>End-to-end development from React frontends to Node.js backends with MongoDB/MySQL databases</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
+      <h3>AI Integration</h3>
+      <p>Hands-on experience integrating AI APIs (OpenRouter) for intelligent, real-time applications</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
+      <h3>Production Ready</h3>
+      <p>Deployed applications on Vercel/Netlify with CI/CD pipelines and cloud infrastructure</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ THE UTILITY BELT (Tech Stack)
 
 <div align="center">
@@ -56,65 +80,65 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ---
 
-## 📂 CLASSIFIED CASE FILES
+## 📂 CLASSIFIED CASE FILES (Featured Projects)
 
 <table>
   <tr>
     <td width="50%">
       <h3>🔦 <a href="https://github.com/chahel1817/VivaMate">PROJECT: VIVAMATE</a></h3>
       <p><strong>Clearance Level:</strong> TOP SECRET</p>
-      <p>An AI-powered interrogation unit (Interview Simulator) designed to test the resolve of recruits.</p>
-      <p><code>MERN Stack</code> <code>OpenRouter AI</code> <code>WebRTC</code> <code>Real-time Analysis</code></p>
+      <p>An AI-powered mock interview platform that simulates real-world technical interviews with intelligent question generation and real-time feedback.</p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>🤖 AI-driven question generation using OpenRouter API</li>
+        <li>📹 Real-time video/audio capture with WebRTC</li>
+        <li>📊 Performance analytics and feedback system</li>
+        <li>🔐 Secure JWT authentication</li>
+      </ul>
+      <p><code>MERN Stack</code> <code>OpenRouter AI</code> <code>WebRTC</code> <code>JWT</code></p>
     </td>
     <td width="50%">
       <h3>🎯 <a href="https://github.com/chahel1817/EduTrack">PROJECT: EDUTRACK</a></h3>
       <p><strong>Clearance Level:</strong> RESTRICTED</p>
-      <p>A tactical performance monitoring system for tracking skill acquisition and field readiness.</p>
-      <p><code>Node.js</code> <code>MongoDB</code> <code>REST Analytics</code> <code>Progress Tracking</code></p>
+      <p>A comprehensive learning management system with quiz creation, performance tracking, and detailed analytics for educators and students.</p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>📝 Dynamic quiz creation and management</li>
+        <li>📈 Real-time progress tracking and analytics</li>
+        <li>🎓 Student performance dashboards</li>
+        <li>⚡ RESTful API architecture</li>
+      </ul>
+      <p><code>Node.js</code> <code>MongoDB</code> <code>REST API</code> <code>Analytics</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 GOTHAM ANALYTICS (GitHub Stats)
+## 💼 TACTICAL ADVANTAGES (Why Hire Me?)
 
 <div align="center">
 
-<a href="https://github.com/chahel1817">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chahel1817&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700&border_color=FFD700&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chahel1817&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&border_color=FFD700&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub Streak"/>
+| 🎯 **Skill** | 🔥 **Proficiency** | 💡 **Real-World Application** |
+|:---|:---:|:---|
+| **MERN Stack Development** | ⭐⭐⭐⭐⭐ | Built 2+ production-ready full-stack applications |
+| **REST API Design** | ⭐⭐⭐⭐⭐ | Designed scalable APIs with JWT authentication |
+| **AI/ML Integration** | ⭐⭐⭐⭐ | Integrated OpenRouter AI for intelligent features |
+| **Database Management** | ⭐⭐⭐⭐ | MongoDB & MySQL with optimized queries |
+| **Cloud Deployment** | ⭐⭐⭐⭐ | Vercel, Netlify, GitHub Actions CI/CD |
+| **Problem Solving** | ⭐⭐⭐⭐⭐ | Strong DSA foundation, competitive programming |
 
 </div>
 
 ---
 
-<!-- GOTHAM SKYLINE -->
-<div align="center">
-  <img src="./gotham-skyline.svg" width="100%" alt="Gotham City Skyline"/>
-</div>
+## 🎓 CURRENT TRAINING PROTOCOLS
 
----
-
-## 📡 SIGNAL THE BAT
-
-<div align="center">
-
-**Encrypted Channels:**
-
-[![GitHub](https://img.shields.io/badge/GitHub-chahel1817-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chahel1817)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chahel_Tanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chahel-tanna-87300a269/)
-[![Email](https://img.shields.io/badge/Email-chahel1817@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahel1817@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=JUSTICE%20NEVER%20SLEEPS&fontSize=22&fontColor=FFD700&fontAlignY=40" width="100%" alt="Footer"/>
-</div>
+```javascript
+const chahelTanna = {
+  currentFocus: ["System Design", "Microservices", "Cloud Architecture"],
+  learning: ["Python for Data Engineering", "Docker & Kubernetes", "AWS Services"],
+  lookingFor: "Full Stack Developer / Backend Engineer roles",
+  availableFor: ["Full-time positions", "Internships", "Freelance projects"],
+  workStyle: "Remote-first, collaborative, agile methodologies"
+};
