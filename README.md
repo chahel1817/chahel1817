@@ -1,55 +1,46 @@
 # Hi 👋, I'm Chahel Tanna
 
 <p align="center">
-<svg width="700" height="400" viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Night Sky -->
   <rect width="100%" height="100%" fill="#05070d"/>
 
-  <!-- ⭐ Animated Stars -->
+  <!-- ⭐ MANY Animated Stars -->
   <g fill="white">
-    <circle cx="50" cy="40" r="1">
-      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="120" cy="90" r="1.5">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="60" r="1.2">
-      <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="500" cy="80" r="1.3">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="650" cy="50" r="1">
-      <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
+    <circle cx="50" cy="40" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="90" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="60" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="80" r="1.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="50" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="120" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="140" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- City Ground -->
-  <rect x="0" y="330" width="700" height="70" fill="#0d1117"/>
+  <!-- Ground -->
+  <rect x="0" y="380" width="800" height="70" fill="#0d1117"/>
 
   <!-- Bat Signal Light Beam -->
-  <polygon points="330,330 370,330 520,40 180,40" fill="#ffd700" opacity="0.15">
-    <animate attributeName="opacity" values="0.05;0.25;0.05" dur="4s" repeatCount="indefinite"/>
+  <polygon points="370,380 430,380 600,60 200,60" fill="#ffd700" opacity="0.15">
+    <animate attributeName="opacity" values="0.05;0.3;0.05" dur="4s" repeatCount="indefinite"/>
   </polygon>
 
-  <!-- Bat Emblem -->
-  <ellipse cx="350" cy="80" rx="90" ry="35" fill="#111" stroke="#ffd700" stroke-width="2"/>
+  <!-- Bat Signal Circle -->
+  <ellipse cx="400" cy="110" rx="110" ry="45" fill="#111" stroke="#ffd700" stroke-width="3"/>
 
-  <!-- Simple Bat Shape -->
-  <path d="M310 80 Q330 55 350 80 Q370 55 390 80 L375 75 L350 95 L325 75 Z"
+  <!-- Bat Shape -->
+  <path d="M355 110 Q380 75 400 110 Q420 75 445 110 L425 100 L400 130 L375 100 Z"
         fill="#ffd700">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
   </path>
 
-  <!-- Caption -->
-  <text x="50%" y="30" fill="#ffd700" font-size="20" font-family="monospace" text-anchor="middle">
+  <!-- Title -->
+  <text x="50%" y="40" fill="#ffd700" font-size="24" font-family="monospace" text-anchor="middle">
     Chahel Tanna — Coding Signal Activated
   </text>
 
 </svg>
 </p>
-
 
 🎓 Computer Science Engineering student & aspiring **Full Stack Developer**  
 💻 Specializing in **MERN Stack** and backend development  
@@ -76,13 +67,13 @@
 ## 📌 Featured Projects
 
 ### 🔹 VivaMate – AI-Powered Interview Simulator
-- Full-stack MERN application for mock interviews
-- AI-generated questions using OpenRouter APIs
+- Full-stack MERN application for mock interviews  
+- AI-generated questions using OpenRouter APIs  
 - Real-time camera & microphone interaction  
 🔗 Repo: https://github.com/chahel1817/VivaMate
 
 ### 🔹 EduTrack – Learning & Assessment Platform
-- MERN-based quiz and performance tracking system
+- MERN-based quiz and performance tracking system  
 - REST APIs for submissions and analytics  
 🔗 Repo: https://github.com/chahel1817/EduTrack
 
