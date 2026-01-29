@@ -72,19 +72,17 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 <div align="center">
 
-<!-- GitHub Stats using different deployment -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chahel1817&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&icon_color=FFD700&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<!-- Using GitHub Profile Summary Cards instead -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chahel1817&theme=tokyonight" alt="GitHub Stats"/>
 
-<!-- Top Languages using different deployment -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chahel1817&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&langs_count=8" alt="Top Languages"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chahel1817&theme=tokyonight" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Streak (this one works) -->
+<!-- Streak (this works) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF" alt="GitHub Streak"/>
 
 </div>
-
 ---
 
 <!-- GOTHAM SKYLINE -->
