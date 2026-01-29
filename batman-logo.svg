@@ -1,76 +1,25 @@
 <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="batGlow">
+    <radialGradient id="logoGlow">
       <stop offset="0%" style="stop-color:#ffd700;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#000000;stop-opacity:0"/>
+      <stop offset="100%" style="stop-color:#ffd700;stop-opacity:0"/>
     </radialGradient>
-    <filter id="shadow">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
-      <feOffset dx="0" dy="2" result="offsetblur"/>
-      <feComponentTransfer>
-        <feFuncA type="linear" slope="0.5"/>
-      </feComponentTransfer>
-      <feMerge>
-        <feMergeNode/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <!-- Glow Background -->
-  <circle cx="100" cy="100" r="90" fill="url(#batGlow)">
-    <animate attributeName="r" values="85;95;85" dur="4s" repeatCount="indefinite"/>
+  <circle cx="100" cy="100" r="90" fill="url(#logoGlow)">
+    <animate attributeName="r" values="85;95;85" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- The Dark Knight Batman Logo -->
-  <g transform="translate(100, 100)" filter="url(#shadow)">
-    <path d="
-      M 0,-35
-      L -8,-32 L -12,-28 L -15,-22
-      
-      L -25,-20 L -35,-15 L -45,-8 L -55,-2
-      L -65,8 L -72,18 L -75,25
-      
-      L -70,28 L -60,25 L -50,20 L -42,12
-      L -35,8 L -28,6
-      
-      L -22,8 L -18,12 L -15,18
-      L -12,12 L -10,8 L -8,5
-      L -5,0 L -3,-8
-      
-      L 0,-10
-      
-      L 3,-8 L 5,0 L 8,5
-      L 10,8 L 12,12 L 15,18
-      L 18,12 L 22,8
-      
-      L 28,6 L 35,8 L 42,12
-      L 50,20 L 60,25 L 70,28
-      
-      L 75,25 L 72,18 L 65,8
-      L 55,-2 L 45,-8 L 35,-15 L 25,-20
-      
-      L 15,-22 L 12,-28 L 8,-32
-      Z
-    " fill="#000000" stroke="none"/>
-    
-    <!-- Bat Ears -->
-    <path d="M -3,-10 L -5,-20 L -2,-35 L 0,-35 L 2,-35 L 5,-20 L 3,-10 Z" fill="#000000"/>
-    
+  <!-- Batman Logo -->
+  <g transform="translate(100, 100) scale(0.8)">
+    <path d="M-60 0 Q-40 -35 0 0 Q40 -35 60 0 L40 -8 L0 28 L-40 -8 Z" fill="#ffd700" stroke="#000000" stroke-width="3">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </path>
   </g>
 
-  <!-- Pulsing Ring -->
-  <circle cx="100" cy="100" r="85" stroke="#ffd700" stroke-width="1" fill="none" opacity="0.4">
-    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+  <!-- Outer Ring -->
+  <circle cx="100" cy="100" r="85" stroke="#ffd700" stroke-width="2" fill="none" opacity="0.5">
+    <animate attributeName="stroke-dasharray" values="0 535;535 0;0 535" dur="5s" repeatCount="indefinite"/>
   </circle>
-
-  <!-- Slow Rotation -->
-  <animateTransform 
-    attributeName="transform" 
-    type="rotate" 
-    from="0 100 100" 
-    to="360 100 100" 
-    dur="25s" 
-    repeatCount="indefinite"/>
-
 </svg>
