@@ -38,21 +38,21 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ## 🛠️ THE UTILITY BELT (Tech Stack)
 
-### 🎨 **Frontend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux&theme=dark" alt="Frontend Stack"/>
-</div>
 
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React.js` • `Next.js` • `Redux`
-
----
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux&theme=dark&perline=6" alt="Frontend"/>
 
 ### ⚙️ **Backend & APIs**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,express,mysql,mongodb&theme=dark" alt="Backend Stack"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,java,express,mysql,mongodb&theme=dark&perline=5" alt="Backend"/>
 
-`Node.js` • `Java` • `Express.js` • `MySQL` • `MongoDB` • `REST API` • `JWT Authentication`
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions&theme=dark&perline=3" alt="Cloud"/>
+
+### 🔧 **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark&perline=5" alt="Tools"/>
+
+</div>
 
 ---
 
