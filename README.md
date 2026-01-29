@@ -10,11 +10,6 @@
 
 <br/><br/>
 
-<!-- HERO TITLE -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=CHAHEL+TANNA;FULL+STACK+VIGILANTE;MERN+STACK+DEVELOPER" alt="Typing SVG" />
-</h1>
-
 <!-- STATUS BADGES -->
 <a href="https://github.com/chahel1817">
   <img src="https://img.shields.io/badge/STATUS-OPERATING_IN_SHADOWS-000000?style=for-the-badge&logo=github&logoColor=FFD700&color=0a0a0a&labelColor=FFD700" alt="Status"/>
@@ -46,9 +41,6 @@
 </a>
 
 <br/><br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=chahel1817&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
