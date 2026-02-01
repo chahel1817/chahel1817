@@ -105,24 +105,20 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 ## 📊 GOTHAM INTELLIGENCE (GitHub Activity)
 
 <div align="center">
-  
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB" alt="GitHub Streak" width="49%"/>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB)](https://git.io/streak-stats)
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=8&card_width=445" alt="Top Languages" width="49%"/>
+<br/>
+
+[![Chahel's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700" width="100%" alt="Contribution Graph"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700" width="100%" alt="Contribution Graph"/>
+[![Chahel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/><br/>
 
