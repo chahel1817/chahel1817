@@ -109,11 +109,7 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 <!-- Streak Stats - Using Render (Heroku Alternative) -->
 <img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB" alt="GitHub Streak" />
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
