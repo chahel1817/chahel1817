@@ -12,7 +12,7 @@
 
 <!-- HERO TITLE -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=CHAHEL+TANNA;FULL+STACK+VIGILANTE;MERN+STACK+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=CHAHEL+TANNA;FULL+STACK+VIGILANTE;MERN+STACK+DEVELOPER" alt="Typing SVG" />
 </h1>
 
 <!-- STATUS BADGES -->
@@ -27,6 +27,7 @@
 </a>
 
 <br/><br/>
+
 
 </div>
 
@@ -46,11 +47,6 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 ## 🏆 HALL OF FAME
 
 <div align="center">
-
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=chahel1817&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
-
-<br/><br/>
 
 ### 🥉 **[3rd Position - State Level Hackathon (TechHack 2025)](https://www.linkedin.com/posts/chahel-tanna-87300a269_techhack2025-hackathon-learning-activity-7382258039925641217-ZjHc?utm_source=share&utm_medium=member_desktop)**
 
@@ -110,28 +106,24 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 <div align="center">
   
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB" alt="GitHub Streak" width="49%"/>
+<!-- Streak Stats - Using Render (Heroku Alternative) -->
+<img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB" alt="GitHub Streak" />
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=8&card_width=445" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
-<br/>
 
 <!-- Activity Graph -->
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700" width="100%" alt="Contribution Graph"/>
-</div>
 
-<br/>
+<br/><br/>
 
 <!-- GitHub Stats Summary -->
-<div align="center">
 <table align="center">
   <tr>
     <td align="center">
@@ -148,6 +140,14 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
     </td>
   </tr>
 </table>
+
+<!-- Activity Graph -->
+[![Chahel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/><br/>
+
+
+
 </div>
 
 ---
@@ -224,6 +224,7 @@ const chahelTanna = {
   workStyle: "Remote-first, collaborative, agile methodologies",
   achievements: ["🥉 3rd Place - State Level Hackathon 2025"]
 };
+
 ```
 
 ---
@@ -351,5 +352,3 @@ const chahelTanna = {
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
