@@ -105,17 +105,41 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 ## 📊 GOTHAM INTELLIGENCE (GitHub Activity)
 
 <div align="center">
+  
+<!-- Streak Stats - Using Render (Heroku Alternative) -->
+<img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB" alt="GitHub Streak" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB)](https://git.io/streak-stats)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<br/>
-
-[![Chahel's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<!-- GitHub Stats Summary -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Commits-500+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Total Commits"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Public_Repos-10+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Public Repos"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stars_Earned-20+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hackathon_Winner-3rd_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0D1117" alt="Hackathon"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Activity Graph -->
 [![Chahel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
