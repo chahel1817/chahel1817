@@ -108,10 +108,9 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 <!-- GitHub Streak -->
 <img 
-  src="https://streak-stats.demolab.com?user=chahel1817&theme=dark" 
-  onerror="this.src='https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=dark';"
+  src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true"
+  referrerpolicy="no-referrer"
 />
-
 
 
 <br/><br/>
