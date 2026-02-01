@@ -107,7 +107,8 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF&border=FFD700" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakNum=E5E7EB&currStreakLabel=FFD700&sideNums=E5E7EB&sideLabels=9CA3AF&border=FFD700" alt="GitHub Streak"/>
+
 
 <br/><br/>
 
