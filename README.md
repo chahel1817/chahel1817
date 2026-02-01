@@ -107,14 +107,18 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 <div align="center">
 
 <!-- GitHub Streak -->
+<div align="center">
+
 <img 
   src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true"
   referrerpolicy="no-referrer"
 />
 
-<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=dark&rank_icon=github" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=dark&rank_icon=github&hide_border=true"
+/>
 
-<br/><br/>
+</div>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700" width="100%" alt="Contribution Graph"/>
