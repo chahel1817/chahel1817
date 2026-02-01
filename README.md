@@ -105,20 +105,9 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 ## 📊 GOTHAM INTELLIGENCE (GitHub Activity)
 <div align="center">
   
-<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak"/>
-<br/>
-<!-- GitHub Stats Side by Side -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=6" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E5E7EB&layout=compact&langs_count=6" alt="Top Languages"/>
 </div>
 
 
