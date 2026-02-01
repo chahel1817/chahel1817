@@ -141,11 +141,6 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
   </tr>
 </table>
 
-<!-- Activity Graph -->
-[![Chahel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/><br/>
-
 
 
 </div>
