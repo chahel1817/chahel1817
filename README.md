@@ -104,10 +104,10 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 
 ## 📊 GOTHAM INTELLIGENCE (GitHub Activity)
 
-<img 
-  src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true"
-  referrerpolicy="no-referrer"
-/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
+</div>
 
 
 <!-- Activity Graph -->
