@@ -112,6 +112,7 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
   referrerpolicy="no-referrer"
 />
 
+<img src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=dark&rank_icon=github" />
 
 <br/><br/>
 
