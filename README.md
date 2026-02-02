@@ -5,8 +5,7 @@
 
 <br/><br/>
 
-<!-- SPINNING BATMAN LOGO -->
-<img src="./batman-logo.svg" width="150" alt="Batman Logo"/>
+
 
 <br/><br/>
 
@@ -103,15 +102,6 @@ I don't just write code — I craft **digital justice**. Specializing in the **M
 ---
 
 ## 📊 GOTHAM INTELLIGENCE (GitHub Activity)
-
-<div align="center">
-  
-<!-- Streak Stats - Using Render (Heroku Alternative) -->
-<img src="https://streak-stats.demolab.com?user=chahel1817&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=E5E7EB" alt="GitHub Streak" />
-
-
-
-</div>
 
 
 <!-- Activity Graph -->
