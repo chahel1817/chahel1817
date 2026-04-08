@@ -6,9 +6,6 @@
 <br/><br/>
 
 
-
-<br/><br/>
-
 <!-- STATUS BADGES -->
 <a href="https://github.com/chahel1817">
   <img src="https://img.shields.io/badge/STATUS-OPERATING_IN_SHADOWS-000000?style=for-the-badge&logo=github&logoColor=FFD700&color=0a0a0a&labelColor=FFD700" alt="Status"/>
