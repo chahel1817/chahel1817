@@ -31,35 +31,30 @@
     </filter>
   </defs>
 
-  <!-- Background -->
   <rect width="1400" height="500" fill="url(#skyGlow)" />
 
-  <!-- Faint radar rings behind the signal -->
   <circle cx="700" cy="170" r="230" fill="none" stroke="#f5c518" stroke-opacity="0.18" stroke-width="1.4" />
   <circle cx="700" cy="170" r="150" fill="none" stroke="#f5c518" stroke-opacity="0.10" stroke-width="1" />
 
-  <!-- Scattered stars -->
   <circle cx="150" cy="80" r="2" fill="#e8edf5" opacity="0.5" />
   <circle cx="1260" cy="110" r="2" fill="#e8edf5" opacity="0.4" />
   <circle cx="330" cy="230" r="1.6" fill="#e8edf5" opacity="0.35" />
   <circle cx="1080" cy="60" r="1.6" fill="#e8edf5" opacity="0.45" />
   <circle cx="950" cy="220" r="1.6" fill="#e8edf5" opacity="0.3" />
 
-  <!-- Spotlight beam, apex at the bat emblem, flaring downward -->
   <polygon points="628,140 772,140 900,470 500,470" fill="url(#beamGrad)" />
 
-  <!-- Dark Knight style bat emblem, sitting at the beam's apex like the signal lens -->
-  <g transform="translate(610,92) scale(0.9)" filter="url(#goldGlow)">
+  <!-- Dark Knight bat emblem — single continuous silhouette -->
+  <g transform="translate(610,88) scale(0.9)" filter="url(#goldGlow)">
     <path
-      d="M100 62 Q114 40 128 34 Q120 28 114 24 Q132 30 150 40 Q142 42 136 46 Q170 36 196 28 Q175 14 150 4 Q128 8 109 13 L104 1 Q100 6 100 11 Q100 6 96 1 L91 13 Q72 8 50 4 Q25 14 4 28 Q30 36 64 46 Q58 42 50 40 Q68 30 86 24 Q80 28 72 34 Q86 40 100 62 Z"
+      d="M195 42 Q160 18 125 20 Q116 10 108 3 Q102 8 100 16 Q98 8 92 3 Q84 10 75 20 Q40 18 5 42 Q30 65 55 60 Q75 75 100 80 Q125 75 145 60 Q170 65 195 42 Z"
       fill="#05060d"
       stroke="#f5c518"
-      stroke-width="2"
+      stroke-width="2.5"
       stroke-linejoin="round"
     />
   </g>
 
-  <!-- Name -->
   <text
     x="700"
     y="360"
@@ -72,7 +67,6 @@
     filter="url(#softGlow)"
   >CHAHEL TANNA</text>
 
-  <!-- Tagline -->
   <text
     x="700"
     y="410"
