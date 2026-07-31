@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CUSTOM BAT-SIGNAL HEADER -->
-<img src="./batsignal.svg" width="100%" alt="Bat Signal - Chahel Tanna"/>
+<img src="./batsignal.svg?v=1" width="100%" alt="Bat Signal - Chahel Tanna"/>
 
 <br/><br/>
 
