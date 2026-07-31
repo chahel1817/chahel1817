@@ -44,10 +44,22 @@
 
   <polygon points="628,140 772,140 900,470 500,470" fill="url(#beamGrad)" />
 
-  <!-- Dark Knight bat emblem — single continuous silhouette -->
-  <g transform="translate(610,88) scale(0.9)" filter="url(#goldGlow)">
+  <!-- Authentic Nolan Dark Knight Emblem -->
+  <g transform="translate(700, 160)" filter="url(#goldGlow)">
     <path
-      d="M195 42 Q160 18 125 20 Q116 10 108 3 Q102 8 100 16 Q98 8 92 3 Q84 10 75 20 Q40 18 5 42 Q30 65 55 60 Q75 75 100 80 Q125 75 145 60 Q170 65 195 42 Z"
+      d="M 0,-12 
+         C -5,-12 -8,-22 -10,-24 
+         C -12,-22 -14,-14 -24,-14 
+         C -36,-14 -42,-22 -52,-22 
+         L -130,-22 
+         C -88,-5 -65,12 -58,22 
+         C -42,12 -22,12 0,42 
+         C 22,12 42,12 58,22 
+         C 65,12 88,-5 130,-22 
+         L 52,-22 
+         C 42,-22 36,-14 24,-14 
+         C 14,-14 12,-22 10,-24 
+         C 8,-22 5,-12 0,-12 Z"
       fill="#05060d"
       stroke="#f5c518"
       stroke-width="2.5"
