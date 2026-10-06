@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header"/>
+<img src="./neural-circuit.svg" width="100%" alt="Neural Circuit"/>
 
 </div>
 
