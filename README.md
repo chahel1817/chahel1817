@@ -137,34 +137,35 @@ Learning how real-world systems handle scale, reliability, caching, databases an
 
 ---
 
-# 🚀 Featured Projects
+# # 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🤖 [VivaMate](https://github.com/chahel1817/VivaMate)
+### 🗃️ [SQLens](https://github.com/chahel1817/SQLens)
 
-**AI Interview Simulator**
+**SQL Query Optimizer & Visualizer**
 
-An AI-powered interview platform designed to simulate technical interviews and provide meaningful performance feedback.
+An interactive developer tool focused on understanding how SQL queries are parsed, optimized, and executed — turning database internals into something visual and easier to understand.
 
 **Highlights**
 
-- 🤖 AI-powered question generation
-- 🎥 Real-time video/audio interaction
-- 📊 Interview performance analytics
-- 🔐 JWT authentication
-- ⚡ Real-time communication
+- 🔍 SQL query analysis and visualization
+- 🌳 AST-based query processing
+- ⚡ Query optimization concepts
+- 🗄️ PostgreSQL integration
+- 📊 Interactive execution insights
+- 🧠 Designed around database internals
 
 **Stack**
 
-`React` `Node.js` `Express` `MongoDB` `Socket.io` `OpenRouter`
+`Next.js` `PostgreSQL` `TypeScript` `AST Parsing` `Database Systems`
 
 <br>
 
-<a href="https://github.com/chahel1817/VivaMate">
+<a href="https://github.com/chahel1817/SQLens">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -172,63 +173,30 @@ An AI-powered interview platform designed to simulate technical interviews and p
 
 <td width="50%">
 
-### 📚 [EduTrack](https://github.com/chahel1817/EduTrack)
-
-**Learning & Quiz Platform**
-
-A learning management platform focused on quizzes, student performance and analytics.
-
-**Highlights**
-
-- 📝 Dynamic quiz creation
-- 📈 Performance tracking
-- 📊 Analytics dashboard
-- 🔐 Authentication
-- ⚡ REST API architecture
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB` `REST API`
-
-<br>
-
-<a href="https://github.com/chahel1817/EduTrack">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧪 Currently Building & Exploring
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🗃️ SQLens
-
-**SQL Query Optimizer Visualizer**
-
-Exploring database internals, query optimization and SQL execution.
-
-`Next.js` `PostgreSQL` `AST Parsing` `Database Systems`
-
-</td>
-
-<td width="50%">
-
-### 🏏 CricWarehouse
+### 🏏 [CricWarehouse](https://github.com/chahel1817/CricWarehouse)
 
 **IPL Data Engineering Pipeline**
 
-A data engineering project focused on transforming raw cricket data into structured analytical datasets.
+A data engineering pipeline for processing and transforming IPL cricket data using a scalable **Medallion Architecture**, from raw data ingestion to analytics-ready datasets.
 
-`Python` `PySpark` `Parquet` `FastAPI` `Next.js`
+**Highlights**
+
+- 🥉 Bronze → Silver → Gold architecture
+- ⚡ PySpark data transformations
+- 📦 Parquet-based data storage
+- 🔄 Data cleaning & transformation pipelines
+- 🚀 FastAPI backend for data access
+- 📊 Next.js analytics dashboard
+
+**Stack**
+
+`Python` `PySpark` `Parquet` `FastAPI` `Next.js` `Data Engineering`
+
+<br>
+
+<a href="https://github.com/chahel1817/CricWarehouse">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -236,6 +204,7 @@ A data engineering project focused on transforming raw cricket data into structu
 </table>
 
 ---
+
 
 # 🧩 Engineering Knowledge
 
