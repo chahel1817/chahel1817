@@ -1,326 +1,451 @@
 <div align="center">
 
-<!-- CUSTOM BAT-SIGNAL HEADER -->
-<img src="https://raw.githubusercontent.com/chahel1817/chahel1817/main/batsignal.svg?v=1" width="100%" alt="Bat Signal - Chahel Tanna"/>
+# 👋 Hi, I'm Chahel Tanna
 
-<br/><br/>
+### Software Engineer • Full Stack Developer • Backend Enthusiast
 
-<!-- STATUS BADGES -->
-<a href="https://github.com/chahel1817">
-  <img src="https://img.shields.io/badge/STATUS-OPERATING_IN_SHADOWS-000000?style=for-the-badge&logo=github&logoColor=FFD700&color=0a0a0a&labelColor=FFD700" alt="Status"/>
-</a>
-<a href="https://linkedin.com/in/chahel-tanna-87300a269/">
-  <img src="https://img.shields.io/badge/COMMS-ESTABLISHED-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=05070d&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:chahel1817@gmail.com">
-  <img src="https://img.shields.io/badge/SIGNAL-ENCRYPTED-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a0a0a" alt="Email"/>
-</a>
+**Building software. Designing systems. Solving problems.**
 
-<br/><br/>
+<p>
+  <a href="https://github.com/chahel1817">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/chahel-tanna-87300a269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chahel1817@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@Chahel-1817">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
-
-</div>
-
----
-
-## 🦇 IDENTITY CONFIRMED
-
-> **Subject:** Chahel Tanna  
-> **Role:** Full Stack Developer & Computer Science Engineer  
-> **Location:** Ahmedabad, Gujarat, India  
-> **Directive:** Building scalable products, clean APIs, and fast UIs.
-
-I don't just write code — I craft **digital justice**. Specializing in the **MERN Stack**, I build high-performance applications that serve the greater good.
-
----
-
-## 🏆 HALL OF FAME
-
-<div align="center">
-
-### 🥉 **[3rd Position - State Level Hackathon (TechHack 2025)](https://www.linkedin.com/posts/chahel-tanna-87300a269_techhack2025-hackathon-learning-activity-7382258039925641217-ZjHc?utm_source=share&utm_medium=member_desktop)**
-
-<img src="https://img.shields.io/badge/🏆_3rd_Place-State_Level_Hackathon-FFD700?style=for-the-badge&labelColor=0D1117" alt="Hackathon Achievement"/>
-
-*Competed against top talent and secured 3rd position in a state-level hackathon, showcasing innovative problem-solving and technical excellence.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header"/>
 
 </div>
 
 ---
 
-## 🎯 MISSION OBJECTIVES (What I Bring to the Table)
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
-      <h3>Full Stack Mastery</h3>
-      <p>End-to-end development from React frontends to Node.js backends with MongoDB/MySQL databases</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
-      <h3>AI Integration</h3>
-      <p>Hands-on experience integrating AI APIs (OpenRouter) for intelligent, real-time applications</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
-      <h3>Production Ready</h3>
-      <p>Deployed applications on Vercel/Netlify with CI/CD pipelines and cloud infrastructure</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ THE UTILITY BELT (Tech Stack)
-
-<div align="center">
-
-### 🎨 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux&theme=dark&perline=6" alt="Frontend"/>
-
-### ⚙️ **Backend & APIs**
-<img src="https://skillicons.dev/icons?i=nodejs,java,express,mysql,mongodb&theme=dark&perline=5" alt="Backend"/>
-
-### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions&theme=dark&perline=3" alt="Cloud"/>
-
-### 🔧 **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark&perline=5" alt="Tools"/>
-
-</div>
-
----
-
-## 📊 GOTHAM INTELLIGENCE (GitHub Activity)
-
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=E5E7EB&area=true&area_color=FFD700" width="100%" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<!-- GitHub Stats Summary -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total_Commits-500+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Total Commits"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Public_Repos-10+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Public Repos"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Stars_Earned-20+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hackathon_Winner-3rd_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0D1117" alt="Hackathon"/>
-    </td>
-  </tr>
-</table>
-
-
-
-</div>
-
----
-
-## 📂 CLASSIFIED CASE FILES (Featured Projects)
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔦 <a href="https://github.com/chahel1817/VivaMate">PROJECT: VIVAMATE</a></h3>
-      <p><strong>Clearance Level:</strong> TOP SECRET</p>
-      <p>An AI-powered mock interview platform that simulates real-world technical interviews with intelligent question generation and real-time feedback.</p>
-      <p><strong>Key Features:</strong></p>
-      <ul>
-        <li>🤖 AI-driven question generation using OpenRouter API</li>
-        <li>📹 Real-time video/audio capture with WebRTC</li>
-        <li>📊 Performance analytics and feedback system</li>
-        <li>🔐 Secure JWT authentication</li>
-      </ul>
-      <p><code>MERN Stack</code> <code>OpenRouter AI</code> <code>WebRTC</code> <code>JWT</code></p>
-      <br/>
-      <a href="https://github.com/chahel1817/VivaMate">
-        <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🎯 <a href="https://github.com/chahel1817/EduTrack">PROJECT: EDUTRACK</a></h3>
-      <p><strong>Clearance Level:</strong> RESTRICTED</p>
-      <p>A comprehensive learning management system with quiz creation, performance tracking, and detailed analytics for educators and students.</p>
-      <p><strong>Key Features:</strong></p>
-      <ul>
-        <li>📝 Dynamic quiz creation and management</li>
-        <li>📈 Real-time progress tracking and analytics</li>
-        <li>🎓 Student performance dashboards</li>
-        <li>⚡ RESTful API architecture</li>
-      </ul>
-      <p><code>Node.js</code> <code>MongoDB</code> <code>REST API</code> <code>Analytics</code></p>
-      <br/>
-      <a href="https://github.com/chahel1817/EduTrack">
-        <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💼 TACTICAL ADVANTAGES (Why Hire Me?)
-
-<div align="center">
-
-| 🎯 **Skill** | 🔥 **Proficiency** | 💡 **Real-World Application** |
-|:---|:---:|:---|
-| **MERN Stack Development** | ⭐⭐⭐⭐⭐ | Built 2+ production-ready full-stack applications |
-| **REST API Design** | ⭐⭐⭐⭐⭐ | Designed scalable APIs with JWT authentication |
-| **AI/ML Integration** | ⭐⭐⭐⭐ | Integrated OpenRouter AI for intelligent features |
-| **Database Management** | ⭐⭐⭐⭐ | MongoDB & MySQL with optimized queries |
-| **Cloud Deployment** | ⭐⭐⭐⭐ | Vercel, Netlify, GitHub Actions CI/CD |
-| **Problem Solving** | ⭐⭐⭐⭐⭐ | Strong DSA foundation, competitive programming |
-| **Hackathon Experience** | ⭐⭐⭐⭐⭐ | 3rd Place - State Level TechHack 2025 |
-
-</div>
-
----
-
-## 🎓 CURRENT TRAINING PROTOCOLS
+## 🧠 Engineering Profile
 
 ```javascript
-const chahelTanna = {
-  currentFocus: ["System Design", "Microservices", "Cloud Architecture"],
-  learning: ["Python for Data Engineering", "Docker & Kubernetes", "AWS Services"],
-  lookingFor: "Full Stack Developer / Backend Engineer roles",
-  availableFor: ["Full-time positions", "Internships", "Freelance projects"],
-  workStyle: "Remote-first, collaborative, agile methodologies",
-  achievements: ["🥉 3rd Place - State Level Hackathon 2025"]
-};
+const chahel = {
+    role: "Software Engineer",
+    location: "Ahmedabad, Gujarat, India",
 
+    focus: [
+        "Full Stack Development",
+        "Backend Engineering",
+        "System Design",
+        "Data Engineering",
+        "AI-powered Applications"
+    ],
+
+    languages: [
+        "C++",
+        "JavaScript",
+        "Python",
+        "Java",
+        "SQL"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "Distributed Systems",
+        "Data Engineering",
+        "Cloud & DevOps"
+    ],
+
+    mindset: "Build → Break → Understand → Improve"
+};
+```
+
+> **I don't just want to build applications — I want to understand the systems behind them.**
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💻 Full Stack
+
+Building complete web applications with modern frontend, backend and database technologies.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Backend
+
+Designing REST APIs, authentication systems, database architectures and scalable services.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 System Design
+
+Learning how real-world systems handle scale, reliability, caching, databases and distributed workloads.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java,html,css&theme=dark"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite&theme=dark"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,vercel,netlify&theme=dark"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 [VivaMate](https://github.com/chahel1817/VivaMate)
+
+**AI Interview Simulator**
+
+An AI-powered interview platform designed to simulate technical interviews and provide meaningful performance feedback.
+
+**Highlights**
+
+- 🤖 AI-powered question generation
+- 🎥 Real-time video/audio interaction
+- 📊 Interview performance analytics
+- 🔐 JWT authentication
+- ⚡ Real-time communication
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `OpenRouter`
+
+<br>
+
+<a href="https://github.com/chahel1817/VivaMate">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📚 [EduTrack](https://github.com/chahel1817/EduTrack)
+
+**Learning & Quiz Platform**
+
+A learning management platform focused on quizzes, student performance and analytics.
+
+**Highlights**
+
+- 📝 Dynamic quiz creation
+- 📈 Performance tracking
+- 📊 Analytics dashboard
+- 🔐 Authentication
+- ⚡ REST API architecture
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `REST API`
+
+<br>
+
+<a href="https://github.com/chahel1817/EduTrack">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧪 Currently Building & Exploring
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🗃️ SQLens
+
+**SQL Query Optimizer Visualizer**
+
+Exploring database internals, query optimization and SQL execution.
+
+`Next.js` `PostgreSQL` `AST Parsing` `Database Systems`
+
+</td>
+
+<td width="50%">
+
+### 🏏 CricWarehouse
+
+**IPL Data Engineering Pipeline**
+
+A data engineering project focused on transforming raw cricket data into structured analytical datasets.
+
+`Python` `PySpark` `Parquet` `FastAPI` `Next.js`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧩 Engineering Knowledge
+
+I'm actively studying the concepts that power large-scale software systems.
+
+```text
+DATABASES
+├── Indexing
+├── B+ Trees
+├── Transactions
+├── ACID
+├── Isolation Levels
+├── Locks
+├── Replication
+└── Sharding
+
+SYSTEM DESIGN
+├── Load Balancers
+├── API Servers
+├── Caching
+├── Redis
+├── Message Queues
+├── Kafka
+├── Microservices
+└── Distributed Systems
+
+BACKEND
+├── REST APIs
+├── Authentication
+├── JWT
+├── Middleware
+├── Async Programming
+├── Node.js
+└── Spring Boot
+
+DATA ENGINEERING
+├── SQL
+├── PostgreSQL
+├── Python
+├── Pandas
+├── NumPy
+├── PySpark
+├── Data Pipelines
+└── Cloud Storage
 ```
 
 ---
 
-<!-- GOTHAM SKYLINE -->
+# 🏆 Achievements
+
 <div align="center">
-  <img src="./gotham-skyline.svg" width="100%" alt="Gotham City Skyline"/>
+
+### 🥉 3rd Position — State Level Hackathon
+
+**TechHack 2025**
+
+Built and presented a technical solution while competing at the state level.
+
+<br>
+
+<img src="https://img.shields.io/badge/State_Level_Hackathon-3rd_Place-F59E0B?style=for-the-badge&logo=trophy&logoColor=white"/>
+
 </div>
 
-## 📡 SIGNAL THE BAT
+---
+
+# 💼 Experience
+
+### Software Engineering Intern — Ambiguity Labs
+
+**Remote | Jul 2026 — Sept 2026**
+
+Worked on software engineering tasks involving codebases, benchmarking workflows and agentic evaluation systems.
+
+**Focus Areas**
+
+- Software engineering workflows
+- Repository-level development
+- Benchmarking & evaluation
+- Debugging and code analysis
+- Agentic coding environments
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chahel1817&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahel1817&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=chahel1817&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chahel1817&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  ████████████████████████░░░░  FULL STACK          │
+│  █████████████████████░░░░░░░  BACKEND             │
+│  ██████████████████░░░░░░░░░░  SYSTEM DESIGN       │
+│  ████████████████░░░░░░░░░░░░  DATA ENGINEERING    │
+│  █████████████░░░░░░░░░░░░░░░  CLOUD & DEVOPS      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### Right now I'm focused on:
+
+- 🔥 Strengthening **DSA & problem solving**
+- ⚙️ Building stronger **backend engineering** skills
+- 🏗️ Learning **system design & distributed systems**
+- 🗄️ Going deeper into **database internals**
+- 🐍 Exploring **Python & Data Engineering**
+- ☁️ Learning **Cloud & DevOps**
+- 🤖 Building practical **AI-powered applications**
+
+---
+
+# 📚 Learning Philosophy
+
+> **Don't memorize the abstraction. Understand what's underneath it.**
+
+Whether it's an index, API, load balancer, message queue or distributed database — I like understanding **why it exists, how it works, and when to use it.**
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Build Better
+```
+
+---
+
+# 🧑‍💻 Problem Solving
+
+<div align="center">
+
+### Data Structures & Algorithms
+
+<a href="https://leetcode.com/u/Chahel/">
+<img src="https://img.shields.io/badge/LeetCode-Chahel-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`Arrays` • `Hashing` • `Linked Lists` • `Binary Search`  
+`Prefix Sum` • `Sliding Window` • `Two Pointers`  
+`Greedy` • `Trees` • `Graphs` • `Dynamic Programming`
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/chahel1817">
+<img src="https://img.shields.io/badge/GitHub-Chahel1817-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chahel-tanna-87300a269/">
+<img src="https://img.shields.io/badge/LinkedIn-Chahel_Tanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chahel1817@gmail.com">
+<img src="https://img.shields.io/badge/Email-chahel1817-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Chahel-1817">
+<img src="https://img.shields.io/badge/YouTube-Chahel--1817-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🚀 Build. Learn. Ship. Repeat.
 
-<br/>
+**Open to internships, software engineering opportunities, and interesting collaborations.**
 
-### 💬 **READY TO COLLABORATE?**
+<br>
 
-<p style="font-size: 18px;">
-  I'm actively seeking <strong>Full Stack Developer</strong> or <strong>Backend Engineer</strong> roles<br/>
-  where I can contribute to building <strong>scalable, impactful products</strong>.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
 
-<br/>
-
-<!-- Call to Action Box -->
-<table>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h3>🚀 LET'S BUILD SOMETHING AMAZING TOGETHER!</h3>
-      <p>Whether it's a full-time opportunity, freelance project, or collaboration,<br/>I'm just one message away.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Enhanced Social Links with Icons -->
-<h3>🌐 CONNECT WITH ME</h3>
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://github.com/chahel1817" target="_blank">
-        <img src="https://img.icons8.com/3d-fluency/94/github.png" width="70"/>
-        <br/><strong>GitHub</strong>
-        <br/><sub>@chahel1817</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://linkedin.com/in/chahel-tanna-87300a269/" target="_blank">
-        <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="70"/>
-        <br/><strong>LinkedIn</strong>
-        <br/><sub>Chahel Tanna</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.youtube.com/@Chahel-1817" target="_blank">
-        <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="70"/>
-        <br/><strong>YouTube</strong>
-        <br/><sub>@Chahel-1817</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="mailto:chahel1817@gmail.com">
-        <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="70"/>
-        <br/><strong>Email</strong>
-        <br/><sub>chahel1817@gmail.com</sub>
-      </a>
-    </td>
-  
-  </tr>
-</table>
-
-<br/>
-
-
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Contact Information Grid -->
-<h3>📋 QUICK INFO</h3>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/marker.png" width="30"/>
-      <br/><strong>Location</strong>
-      <br/>Ahmedabad, Gujarat
-      <br/>India 🇮🇳
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/clock.png" width="30"/>
-      <br/><strong>Availability</strong>
-      <br/>Immediate
-      <br/>Full-time / Freelance
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/briefcase.png" width="30"/>
-      <br/><strong>Work Authorization</strong>
-      <br/>Indian Citizen
-      <br/>Open to Relocation
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/handshake.png" width="30"/>
-      <br/><strong>Open To</strong>
-      <br/>Collaborations
-      <br/>Mentorship
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Response Time Badge -->
-<img src="https://img.shields.io/badge/Response_Time-Within_24_Hours-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Response Time"/>
-
-<br/><br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
